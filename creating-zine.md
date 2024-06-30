@@ -21,9 +21,9 @@ This guide is for people new to creating zines, who might want to use the format
    * If your printer is capable of double-sided printing, set it to print on two sides of the sheet and to flip the sheet on the long end.
    * If your printer is incapable of double-sided printing, print all the single sides at once, then flip them and load them back into the printer manually.
 
-1. Allowing the sheet to remain attached in the middle, make two cuts along the dotted lines between pages 1 and 4, and then between pages 8 and 5.
+1. Allowing the printed sheet to remain attached in the middle, make two cuts along the dotted lines between pages 1 and 4, and then between pages 8 and 5.
 
-   ![Cut the sheet while still having it attached in the middle](/cut-printed-sheet.png)
+   ![Cut the printed sheet while still having it attached in the middle](/cut-printed-sheet.png)
    
 1. Making sure that pages 1, 8, 4, and 5 are facing outwards, fold the sheet to create a crease where the cuts are.
 
